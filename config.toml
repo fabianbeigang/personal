@@ -1,0 +1,44 @@
+baseURL = "http://www.beigang.org/"
+languageCode = "en-us"
+title = "Fabian Beigang"
+theme = "avicenna"
+
+[params]
+  subtitle= "PhD Student"
+  cv_name= "https://drive.google.com/file/d/1kqX8bB-h8tI_l3pYYsvJSJkyhJt8a9WF/view?usp=sharing"
+
+
+[[params.affilation]]
+  name = "London School of Economics and Political Science"
+  position = "PhD Student"
+  contact = "f.beigang@lse.ac.uk"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://www.linkedin.com/in/fabianlse/"
+
+
+[[params.introduction.paragraph]]
+  text=""" My PhD project addresses the question which formal constraints need
+  to be imposed on algorithmic decision systems in order to ensure that they don't
+  produce outcomes that are in conflict with relevant ethical norms. My aim is to draw
+  on existing literature on discrimination and equality of opportunity to analyze how algorithmic decision-making
+  procedures and their outcomes can potentially be morally objectionable and, consequently, which ethical norms they might violate. Making use of the mathematical formalism of causal modelling, I then intend to
+ translate the resulting norms into formal language, so that they are applicable to algorithmic systems. """
+[[params.introduction.paragraph]]
+  text=""" Other philosophical projects I pursue are in formal and social epistemology, and causal modelling. Besides that, I occasionally venture into the realms of statistics and machine learning.
+  """
+
+
+[[params.projects]]
+
+[[params.projects.project]]
+  name = "Bias as causal inadequacy: An analysis of the COMPAS dataset with causal inference methods"
+  description  = "In this paper I first propose to conceive the notion of algorithmic bias as causal inadequacy, meaning that a sensitive attribute such as ethnicity or gender has a stronger causal effect on the predictor of an event, than on the event itself. Using the publicly available COMPAS dataset, I then use this definition together with matching methods for causal inference to show that the COMPAS algorithm is indeed racially biased. "
+  project_page = "https://myprojecthomepage.com"
+
+	[[params.projects.project]]
+		name = "Epistemic utility arguments for proportionality"
+		description  = "In this paper I use the framework of epistemic utility theory to argue for a proportionality constraint on representations of causal relations. I further use the framework to develop a weakened proportionality constraint that applies to imperfect regularities, or probabilistic causal relations. "
+    project_page = "https://myprojecthomepage.com"
