@@ -1,3 +1,7 @@
 [submodule "avicenna"]
 	path = avicenna
 	url = https://github.com/hadisinaee/avicenna
+[submodule "public"]
+	path = public
+	url = https://github.com/fabianbeigang/personal
+	branch = master
