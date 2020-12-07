@@ -1,4 +1,4 @@
-baseURL = "http://www.beigang.org/"
+baseURL = "https://www.beigang.org/"
 languageCode = "en-us"
 title = "Fabian Beigang"
 theme = "avicenna"
