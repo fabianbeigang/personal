@@ -36,9 +36,9 @@ theme = "avicenna"
 [[params.projects.project]]
   name = "Bias as causal inadequacy: An analysis of the COMPAS dataset with causal inference methods"
   description  = "In this paper I first propose to conceive the notion of algorithmic bias as causal inadequacy, meaning that a sensitive attribute such as ethnicity or gender has a stronger causal effect on the predictor of an event, than on the event itself. Using the publicly available COMPAS dataset, I then use this definition together with matching methods for causal inference to show that the COMPAS algorithm is indeed racially biased. "
-  project_page = "https://myprojecthomepage.com"
+  
 
 	[[params.projects.project]]
 		name = "Epistemic utility arguments for proportionality"
 		description  = "In this paper I use the framework of epistemic utility theory to argue for a proportionality constraint on representations of causal relations. I further use the framework to develop a weakened proportionality constraint that applies to imperfect regularities, or probabilistic causal relations. "
-    project_page = "https://myprojecthomepage.com"
+    #project_page = "https://myprojecthomepage.com"
