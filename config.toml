@@ -30,5 +30,10 @@ theme = "avicenna"
   text=""" Other philosophical projects I pursue are in formal and social epistemology, and causal modelling. Besides that, I occasionally venture into the realms of statistics and machine learning.
   """
 
+[[params.projects]]
+	[[params.projects.project]]
+		name = "Counterfactual Fairness, Equalized Odds, and Groupwise Calibration: Yet Another Impossibility Theorem"
+		description  = "When predictive models are used in decision-making processes, these models should satisfy certain mathematical fairness constraints which ensure that predictions are not discriminatory. Counterfactual fairness, equalized odds, and groupwise calibration are three of the most widely discussed such fairness constraints. In this paper we make two contributions. First, we show that for a certain class of prediction tasks, whenever a predictive model satisfies counterfactual fairness, it necessarily violates both, equalized odds and groupwise calibration. We characterize this class as prediction tasks in contexts in which the sensitive attribute has a (possibly mediated) effect on the variable that is to be predicted. We discuss different ways to avoid this conclusion by relaxing one or more of the premises of the proof. Secondly, we propose a new fairness constraint called causal relevance fairness, which is a relaxation of counterfactual fairness that retains its intuitive and philosophical appeal while being compatible with equalized odds in all possible prediction task contexts."
+		project_page = "https://drive.google.com/file/d/1RtjnfemBR-IPmxSMDm7XrI7ZnIaDvQCz/view?usp=sharing"
 
 
