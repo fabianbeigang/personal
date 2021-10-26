@@ -20,20 +20,22 @@ theme = "avicenna"
 
 
 [[params.introduction.paragraph]]
-  text=""" My PhD project addresses the question which formal constraints need
-  to be imposed on algorithmic decision systems in order to ensure that they don't
-  produce outcomes that are in conflict with relevant ethical norms. My aim is to draw
-  on existing literature on discrimination and equality of opportunity to analyze how algorithmic decision-making
-  procedures and their outcomes can potentially be morally objectionable and, consequently, which ethical norms they might violate. Making use of the mathematical formalism of causal modelling, I then intend to
- translate the resulting norms into formal language, so that they are applicable to algorithmic systems. """
+  text="""I am a PhD student at the London School of Economics and Political Science. My work is at the intersection of philosophy and machine learning.  """
 [[params.introduction.paragraph]]
-  text=""" Other philosophical projects I pursue are in formal and social epistemology, and causal modelling. Besides that, I occasionally venture into the realms of statistics and machine learning.
-  """
+  text="""The central topic of my PhD thesis is the use of causal models in the domain of algorithmic fairness. 
+My aim is, in particular, to address a number of conceptual problems and logical incompatibilities 
+that occur in this field of research, which I intend to illustrate with empirical analyses of real world data. 
+I hope to thereby contribute a small part to the problem of developing fair and equitable algorithms for automated decision-making.  """
 
 [[params.projects]]
 	[[params.projects.project]]
 		name = "Counterfactual Fairness, Equalized Odds, and Calibration: Yet Another Impossibility Theorem"
 		description  = "When predictive models are used in decision-making processes, these models should satisfy certain mathematical fairness constraints which ensure that predictions are not discriminatory. Counterfactual fairness, equalized odds, and groupwise calibration are three of the most widely discussed such fairness constraints. In this paper we make two contributions. First, we show that for a certain class of prediction tasks, whenever a predictive model satisfies counterfactual fairness, it necessarily violates both, equalized odds and groupwise calibration. We characterize this class as prediction tasks in contexts in which the sensitive attribute has a (possibly mediated) effect on the variable that is to be predicted. We discuss different ways to avoid this conclusion by relaxing one or more of the premises of the proof. Secondly, we propose a new fairness constraint called causal relevance fairness, which is a relaxation of counterfactual fairness that retains its intuitive and philosophical appeal while being compatible with equalized odds in all possible prediction task contexts."
+		project_page = "https://drive.google.com/file/d/1Z-crA8qF4g16n0y20_ezju6AlORFLeCq/view?usp=sharing"
+		
+	[[params.projects.project]]
+		name = "Two Concepts of Fairness in Algorithmic Decision-Making"
+		description  = "The problem of algorithmic fairness is typically framed as the problem of finding a unique formal criterion which guarantees that a given algorithmic decision-making procedure is morally permissible. In this paper, we argue that this is conceptually misguided, and that we should replace the problem with two sub-problems. If we examine how most state-of-the-art machine learning systems work, we notice that there are two distinct stages in the decision-making process. First, a prediction of a relevant property is made. Secondly, a decision is taken based (at least partly) on this prediction. These two stages have different aims: the prediction is aimed at accuracy, while the decision is aimed at allocating a given good in a way that maximizes some context-relative utility measure. Correspondingly, two different fairness issues can arise. First, predictions could be biased in discriminatory ways. This means that the predictions contain systematic errors for a specific group of individuals. Secondly, the decisions of the system could result in an allocation of goods which is in tension with the principles of distributive justice. These two fairness issues are distinct problems which require different types of solutions. We here provide a formal framework to address both issues and argue that this way of conceptualizing them resolves some of the paradoxes present in the discussion of algorithmic fairness."
 		project_page = "https://drive.google.com/file/d/1Z-crA8qF4g16n0y20_ezju6AlORFLeCq/view?usp=sharing"
 
 
