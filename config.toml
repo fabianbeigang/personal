@@ -4,7 +4,7 @@ title = "Fabian Beigang"
 theme = "avicenna"
 
 [params]
-  subtitle= "PhD Student"
+  subtitle= "Data Scientist and Philosopher"
   cv_name= "https://drive.google.com/file/d/1olDfPaigSfs8Q-4Zx0SJn-IidGQO2tnr/view?usp=sharing"
 
 
@@ -38,7 +38,3 @@ I hope to thereby contribute a small part to the problem of developing fair and 
 		description  = "When predictive models are used in decision-making processes, these models should satisfy certain mathematical fairness constraints which ensure that predictions are not discriminatory. Counterfactual fairness, equalized odds, and groupwise calibration are three of the most widely discussed such fairness constraints. In this paper we make two contributions. First, we show that for a certain class of prediction tasks, whenever a predictive model satisfies counterfactual fairness, it necessarily violates both, equalized odds and groupwise calibration. We characterize this class as prediction tasks in contexts in which the sensitive attribute has a (possibly mediated) effect on the variable that is to be predicted. We discuss different ways to avoid this conclusion by relaxing one or more of the premises of the proof. Secondly, we propose a new fairness constraint called causal relevance fairness, which is a relaxation of counterfactual fairness that retains its intuitive and philosophical appeal while being compatible with equalized odds in all possible prediction task contexts."
 		project_page = "https://drive.google.com/file/d/1Z-crA8qF4g16n0y20_ezju6AlORFLeCq/view?usp=sharing"
 		
-	[[params.projects.publication]]
-		name = "Two Concepts of Fairness in Algorithmic Decision-Making"
-		description  = "The problem of algorithmic fairness is typically framed as the problem of finding a unique formal criterion which guarantees that a given algorithmic decision-making procedure is morally permissible. In this paper, we argue that this is conceptually misguided, and that we should replace the problem with two sub-problems. If we examine how most state-of-the-art machine learning systems work, we notice that there are two distinct stages in the decision-making process. First, a prediction of a relevant property is made. Secondly, a decision is taken based (at least partly) on this prediction. These two stages have different aims: the prediction is aimed at accuracy, while the decision is aimed at allocating a given good in a way that maximizes some context-relative utility measure. Correspondingly, two different fairness issues can arise. First, predictions could be biased in discriminatory ways. This means that the predictions contain systematic errors for a specific group of individuals. Secondly, the decisions of the system could result in an allocation of goods which is in tension with the principles of distributive justice. These two fairness issues are distinct problems which require different types of solutions. We here provide a formal framework to address both issues and argue that this way of conceptualizing them resolves some of the paradoxes present in the discussion of algorithmic fairness."
-		project_page = "https://drive.google.com/file/d/1h7JC8BQ-qKYRhJ-6VuNCRvUo0Cy7x4OS/view?usp=sharing"
