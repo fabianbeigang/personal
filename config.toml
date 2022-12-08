@@ -30,7 +30,9 @@ theme = "avicenna"
   
 [[params.publications]]
   	[[params.publications.publication]]
-		name = "Publication"
+		title = "On the Advantages of Distinguishing Between Predictive and Allocative Fairness in Algorithmic Decision-Making"
+		date = "2022"
+		publication = "Minds and Machines"
 
 [[params.projects]]
 	[[params.projects.project]]
