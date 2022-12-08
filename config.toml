@@ -31,7 +31,7 @@ theme = "avicenna"
 [[params.publications]]
   	[[params.publications.paper]]
 		name = "On the Advantages of Distinguishing Between Predictive and Allocative Fairness in Algorithmic Decision-Making"
-		dest  = "(2022), <i>Minds and Machines<\i>"
+		dest  = "(2022), *Minds and Machines*"
 		link = "https://link.springer.com/article/10.1007/s11023-022-09615-9"
 
 [[params.projects]]
