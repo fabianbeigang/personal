@@ -29,11 +29,9 @@ theme = "avicenna"
   on bias and fairness in machine learning models.  """
   
 [[params.publications]]
-year = "2022"
   	[[params.publications.paper]]
 		name = "On the Advantages of Distinguishing Between Predictive and Allocative Fairness in Algorithmic Decision-Making"
-		authors = "__Fabian Beigang__"
-		dest  = "Minds and Machines"
+		dest  = "(2022), <i>Minds and Machines<\i>"
 		link = "https://link.springer.com/article/10.1007/s11023-022-09615-9"
 
 [[params.projects]]
