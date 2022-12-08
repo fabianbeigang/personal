@@ -25,7 +25,8 @@ theme = "avicenna"
 
 
 [[params.introduction.paragraph]]
-  text="""I am a PhD student at the London School of Economics and Political Science. My work is at the intersection of philosophy and machine learning.  """
+  text="""I am a Data Scientist at the NHS Northumbria Foundation Trust. Previously, I was a PhD student at the London School of Economics and Political Science working
+  at the intersection of philosophy and machine learning.  """
 [[params.introduction.paragraph]]
   text="""The central topic of my PhD thesis is the use of causal models in the domain of algorithmic fairness. 
 My aim is, in particular, to address a number of conceptual problems and logical incompatibilities 
