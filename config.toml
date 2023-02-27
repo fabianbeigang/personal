@@ -34,6 +34,10 @@ theme = "avicenna"
 		dest  = "*Minds and Machines*, 2022"
 		link = "https://link.springer.com/article/10.1007/s11023-022-09615-9"
 	[[params.publications.paper]]
+		name = "Reconciling Algorithmic Fairness Criteria"
+		dest  = "*Philosophy and Public Affairs*, 2023 (forthcoming)"
+		link = "https://onlinelibrary.wiley.com/journal/10884963"
+	[[params.publications.paper]]
 		name = "Counterfactual Fairness, Equalized Odds, and Calibration: Yet Another Impossibility Theorem"
 		dest  = "(under review)"
 		link = "https://drive.google.com/file/d/1Z-crA8qF4g16n0y20_ezju6AlORFLeCq/view?usp=sharing"
