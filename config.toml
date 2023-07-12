@@ -9,9 +9,9 @@ theme = "avicenna"
 
 
 [[params.affilation]]
-  name = "London School of Economics and Political Science"
-  position = "Data Scientist and Researcher"
-  contact = "f.beigang@lse.ac.uk"
+  name = ""
+  position = "Data Scientist (NHS) and Researcher (LSE)"
+  contact = "fabian.beigang@northumbria-healthcare.nhs.uk | f.beigang@lse.ac.uk"
 
 [[params.social]]
   name = "LinkedIn"
