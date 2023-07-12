@@ -10,7 +10,7 @@ theme = "avicenna"
 
 [[params.affilation]]
   name = "London School of Economics and Political Science"
-  position = "Data Scientist and Philosopher"
+  position = "Data Scientist and Researcher"
   contact = "f.beigang@lse.ac.uk"
 
 [[params.social]]
@@ -25,7 +25,7 @@ theme = "avicenna"
 
 
 [[params.introduction.paragraph]]
-  text="""I am a Data Scientist at the Northumbria Healthcare NHS Foundation Trust and a Visiting Fellow (PhD Graduate) at the London School of Economics. Previously, I was a PhD student at the London School of Economics and Political Science, working
+  text="""I am a Data Scientist at the Northumbria Healthcare NHS Foundation Trust and a Visiting Fellow (PhD Graduate) at the London School of Economics. Previously, I was a PhD student at the London School of Economics and Political Science at the Department of Philosophy, Logic, and Scientific Method, working
   on bias and fairness in machine learning models.  """
   
 [[params.publications]]
