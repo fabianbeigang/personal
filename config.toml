@@ -30,16 +30,16 @@ theme = "avicenna"
   
 [[params.publications]]
   	[[params.publications.paper]]
-		name = "On the Advantages of Distinguishing Between Predictive and Allocative Fairness in Algorithmic Decision-Making"
-		dest  = "*Minds and Machines*, 2022"
-		link = "https://link.springer.com/article/10.1007/s11023-022-09615-9"
+		name = "Yet Another Impossibility Theorem in Algorithmic Fairness"
+		dest  = "*Minds and Machines*, 2023"
+		link = "https://link.springer.com/article/10.1007/s11023-023-09645-x"
 	[[params.publications.paper]]
 		name = "Reconciling Algorithmic Fairness Criteria"
-		dest  = "*Philosophy and Public Affairs*, 2023"
+		dest  = "*Philosophy and Public Affairs*, 2023 (open access)"
 		link = "https://onlinelibrary.wiley.com/journal/10884963"
 	[[params.publications.paper]]
-		name = "Yet Another Impossibility Theorem"
-		dest  = "*Minds and Machines*, 2023 (forthcoming)"
-		link = "https://drive.google.com/file/d/1Z-crA8qF4g16n0y20_ezju6AlORFLeCq/view?usp=sharing"
+		name = "On the Advantages of Distinguishing Between Predictive and Allocative Fairness in Algorithmic Decision-Making"
+		dest  = "*Minds and Machines*, 2022 (open access)"
+		link = "https://link.springer.com/article/10.1007/s11023-022-09615-9"
 
 		
