@@ -10,7 +10,7 @@ theme = "avicenna"
 
 [[params.affilation]]
   name = ""
-  position = "Data Scientist (NHS) and Researcher (LSE)"
+  position = "Senior Data Scientist (NHS) and Researcher (LSE)"
   contact = "fabian.beigang@northumbria-healthcare.nhs.uk | f.beigang@lse.ac.uk"
 
 [[params.social]]
@@ -25,7 +25,7 @@ theme = "avicenna"
 
 
 [[params.introduction.paragraph]]
-  text="""I am a Data Scientist at the Northumbria Healthcare NHS Foundation Trust and a Visiting Fellow (PhD Graduate) at the London School of Economics. Previously, I was a PhD student at the London School of Economics and Political Science at the Department of Philosophy, Logic, and Scientific Method, working
+  text="""I am a Senior Data Scientist at the Northumbria Healthcare NHS Foundation Trust and a Visiting Fellow (PhD Graduate) at the London School of Economics. Previously, I was a PhD student at the London School of Economics and Political Science at the Department of Philosophy, Logic, and Scientific Method, working
   on bias and fairness in machine learning models.  """
   
 [[params.publications]]
